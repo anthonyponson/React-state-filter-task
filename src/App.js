@@ -24,7 +24,7 @@ const MobileList = () => {
       id: '4',
       name: 'iphone 13',
       price: 62990,
-      isPurchased: false
+      isPurchased: true
     },
     {
       id: '5',
@@ -36,7 +36,7 @@ const MobileList = () => {
       id: '6',
       name: 'Poco M4',
       price: 13999,
-      isPurchased: true
+      isPurchased: false
     }
   ])
 
